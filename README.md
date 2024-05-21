@@ -2,4 +2,4 @@
 - 👀 I’m interested in HTML + CSS
 - 🌱 I’m currently learning CSS
 - 📫 Contact me on Twitter! 
-- ⚡ Sometimes live on Twitch.
+- ⚡ Might be live on Twitch.
