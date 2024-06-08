@@ -1,4 +1,4 @@
-- 👋 Hey, I’m Hannes
+- 👋 Hey, I’m niss
 - 👀 I’m interested in HTML + CSS
 - 🌱 I’m currently learning CSS
 - 📫 Contact me on Twitter! 
