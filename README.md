@@ -1,5 +1,1 @@
-- 👋 Hey, I’m niss
-- 👀 I’m interested in HTML + CSS
-- 🌱 I’m currently learning CSS
-- 📫 Contact me on Twitter! 
-- ⚡ Might be live on Twitch.
+
